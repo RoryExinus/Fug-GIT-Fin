@@ -1,5 +1,5 @@
-Hellow **EveryOne**
-It`s repository about my study in **FUAGS**
+**Hellow Everyone**
+It`s repository about my study in **FUGAS**
 I added 2 repositories for final exam 
 Labs:
 - Vector

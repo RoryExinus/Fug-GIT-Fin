@@ -1,6 +1,6 @@
 **Hellow Everyone**
 It`s repository about my study in **FUGAS**
-I added 2 repositories for final exam 
+I added 2 labs for final exam 
 Labs:
 - Vector
     - In this lab, I needed to create a vector class that had x and y fields, as well as "+" and "-" methods for the vector
